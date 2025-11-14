@@ -6,6 +6,8 @@
 
 ![home-page](images/second/home.png)
 
+> events section will show closest 3 events to now ("now" being when site was loaded)
+
 ---
 
 ### Navbar and Footer
