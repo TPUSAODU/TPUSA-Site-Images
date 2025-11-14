@@ -4,7 +4,15 @@
 
 ### "Home" Page
 
-![home-page](images/first/home.png)
+![home-page](images/second/home.png)
+
+---
+
+### Navbar and Footer
+
+![navbar](images/second/navbar.png)
+
+![footer](images/second/footer.png)
 
 ---
 
@@ -16,7 +24,7 @@
 
 ### "Join Us" Page
 
-![join-us-page](images/first/join-us.png)
+Now relocates to the CampusGroups page
 
 ---
 
@@ -29,12 +37,6 @@
 ### "Contact Us" Page
 
 ![contact-us-page](images/first/contact-us.png)
-
----
-
-### "Subscribe to Our Newsletter" Page
-
-![subscribe-to-newsletter-page](images/first/subscribe-to-newsletter.png)
 
 ---
 
